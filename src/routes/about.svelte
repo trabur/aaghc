@@ -20,7 +20,7 @@
 	<li>8: qween</li>
 	<li>X: bishop</li>
 	<li>L: knight</li>
-	<li>+: castle</li>
+	<li>+: rook</li>
 </ul>
 
 <h1>The stages of this game.</h1>
