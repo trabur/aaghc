@@ -33,7 +33,7 @@
 </style>
 
 <svelte:head>
-	<title>Sapper project template</title>
+	<title>AAGHC</title>
 </svelte:head>
 
 <figure>
