@@ -4,7 +4,7 @@
 
 <style>
 	nav {
-		border-bottom: 1px solid rgba(255,62,0,0.1);
+		border-bottom: 1px solid #ccc;
 		font-weight: 300;
 		padding: 0 1em;
 		display: flex;
@@ -37,7 +37,7 @@
 		content: '';
 		width: calc(100% - 1em);
 		height: 2px;
-		background-color: rgb(255,62,0);
+		background-color: #333;
 		display: block;
 		bottom: -1px;
 	}
@@ -51,8 +51,8 @@
 
 <nav>
 	<ul style="flex: 1;">
-		<li><a aria-current="{segment === undefined ? 'page' : undefined}" href=".">home</a></li>
-		<li><a aria-current="{segment === 'about' ? 'page' : undefined}" href="about">about</a></li>
+		<li><a aria-current="{segment === undefined ? 'page' : undefined}" href=".">this</a></li>
+		<li><a aria-current="{segment === 'directions' ? 'page' : undefined}" href="directions">directions</a></li>
 	</ul>
 	<div style="flex: 1;">
 		<h1 style="text-align: center; margin: 0 auto; padding: 0.25em 0 0 0;"><strong>AA</strong>GHC</h1>
