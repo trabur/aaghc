@@ -1,13 +1,13 @@
-<script>
-	export let segment;
-</script>
-
 <style>
 	nav {
 		border-bottom: 1px solid #ccc;
 		font-weight: 300;
 		padding: 0 1em;
 		display: flex;
+	}
+
+	.dark > nav {
+		border-bottom: 1px solid #555;
 	}
 
 	ul {
@@ -30,6 +30,10 @@
 	[aria-current] {
 		position: relative;
 		display: inline-block;
+	}
+
+	.dark > nav [aria-current]::after {
+		background-color: #888;
 	}
 
 	[aria-current]::after {
@@ -55,7 +59,7 @@
 		<li><a aria-current="{segment === 'directions' ? 'page' : undefined}" href="directions">directions</a></li>
 	</ul>
 	<div style="flex: 1;">
-		<h1 style="text-align: center; margin: 0 auto; padding: 0.25em 0 0 0;"><strong>AA</strong>GHC</h1>
+		<h1 on:click={toggleTheme} style="text-align: center; margin: 0 auto; padding: 0.25em 0 0 0; cursor: pointer;"><strong>AA</strong>GHC</h1>
 	</div>
 	<ul style="flex: 1;">
 		<!-- for the blog link, we're using rel=prefetch so that Sapper prefetches
@@ -63,3 +67,8 @@
 		<li style="float: right;"><a rel=prefetch aria-current="{segment === 'blog' ? 'page' : undefined}" href="blog">blog</a></li>
 	</ul>
 </nav>
+
+<script>
+	export let segment;
+	export let toggleTheme;
+</script>
