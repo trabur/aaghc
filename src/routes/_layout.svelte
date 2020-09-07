@@ -7,14 +7,7 @@
     left: 0;
     bottom: 0;
     top: 0;
-	}
-
-	main {
-		position: relative;
-		max-width: 56em;
-		padding: 2em;
-		margin: 0 auto;
-		box-sizing: border-box;
+		overflow: auto;
 	}
 
 	.dark {
@@ -26,9 +19,7 @@
 
 <div id="aaghc" class={theme}>
 	<Nav {toggleTheme} {segment} />
-	<main>
-		<slot></slot>
-	</main>
+	<slot></slot>
 </div>
 
 

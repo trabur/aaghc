@@ -18,6 +18,14 @@
 </script>
 
 <style>
+	main {
+		position: relative;
+		max-width: 56em;
+		padding: 2em;
+		margin: 0 auto;
+		box-sizing: border-box;
+	}
+
 	/*
 		By default, CSS is locally scoped to the component,
 		and any unused styles are dead-code-eliminated.
@@ -57,8 +65,10 @@
 	<title>{post.title}</title>
 </svelte:head>
 
-<h1>{post.title}</h1>
+<main>
+	<h1>{post.title}</h1>
 
-<div class='content'>
-	{@html post.html}
-</div>
+	<div class='content'>
+		{@html post.html}
+	</div>
+</main>

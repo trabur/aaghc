@@ -4,6 +4,7 @@
 		font-weight: 300;
 		padding: 0 1em;
 		display: flex;
+		height: 3.5em;
 	}
 
 	.dark > nav {
@@ -55,8 +56,8 @@
 
 <nav>
 	<ul style="flex: 1;">
-		<li><a aria-current="{segment === undefined ? 'page' : undefined}" href=".">this</a></li>
-		<li><a aria-current="{segment === 'directions' ? 'page' : undefined}" href="directions">directions</a></li>
+		<li><a aria-current="{segment === undefined ? 'page' : undefined}" href=".">cipherboard</a></li>
+		<li><a aria-current="{segment === 'reference' ? 'page' : undefined}" href="reference">reference</a></li>
 	</ul>
 	<div style="flex: 1;">
 		<h1 on:click={toggleTheme} style="text-align: center; margin: 0 auto; padding: 0.25em 0 0 0; cursor: pointer;"><strong>AA</strong>GHC</h1>
