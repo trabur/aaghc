@@ -1,6 +1,11 @@
 <script>
   import { onMount } from 'svelte';
+  import { entile, detile } from '../../mechanism/coders/index'
+  // let coders = require()
 
+  console.log(entile('test'))
+  // coders.code.entile('test')
+  
   const factors = number => Array
     .from(Array(number + 1), (_, i) => i)
     .filter(i => number % i === 0)
