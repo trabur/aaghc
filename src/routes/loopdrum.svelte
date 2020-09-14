@@ -11,8 +11,9 @@
   .loop {
     margin: 0 auto;
     width: 800px;
-    height: 400px;
+    height: 800px;
   }
+
   .drum {
     position: absolute;
     top: 3.5em;
@@ -27,7 +28,7 @@
   <br />
   <div class="settings">
     <h1>modulo rotation:</h1>
-    <p>modulo rotation: modulo rotation: modulo rotation: modulo rotation: modulo rotation: modulo rotation: modulo rotation: modulo rotation: modulo rotation: </p>
+    <p>modulo rotation: modulo rotation: modulo rotation: modulo rotation: modulo rotation: modulo rotation: modulo rotation: modulo rotation: modulo rotation: modulo rotation: modulo rotation: modulo rotation: modulo rotation: </p>
   </div>
   <div class="loop">
 	  <Example class="drum" />
