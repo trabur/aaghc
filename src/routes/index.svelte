@@ -1,11 +1,15 @@
 <style>
-	main {
+	.board {
 		position: relative;
-		max-width: 56em;
+		max-width: 800px;
 		padding: 2em;
 		margin: 0 auto;
 		box-sizing: border-box;
 	}
+  .settings {
+    margin: 0 auto;
+    width: 600px;
+  }
 </style>
 
 <svelte:head>
@@ -14,7 +18,12 @@
 
 <!-- <Monopoly /> -->
 <main>
-	<Cipher />
+  <br />
+  <div class="settings">
+    <h1>reflect encrypt decrypt:</h1>
+    <p>reflect encrypt decrypt: reflect encrypt decrypt: reflect encrypt decrypt: reflect encrypt decrypt: reflect encrypt decrypt: reflect encrypt decrypt: reflect encrypt decrypt: reflect encrypt decrypt: reflect encrypt decrypt: </p>
+  </div>
+	<Example class="board" />
 	<!-- <PrototypeCube /> -->
 	<!-- <CoinToss />
 	<TicTacToe /> -->
@@ -25,5 +34,5 @@
 	import PrototypeCube from '../components/PrototypeCube.svelte';
 	import CoinToss from '../components/CoinToss.svelte';
 	import TicTacToe from '../components/TicTacToe.svelte';
-	import Cipher from '../components/Cipher.svelte';
+	import Example from '../components/cipherboard/Example.svelte';
 </script>

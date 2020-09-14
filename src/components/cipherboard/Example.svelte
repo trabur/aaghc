@@ -1,6 +1,45 @@
+<style>
+  .grid {
+    width: 900px;
+    margin: 0 auto;
+  }
+  .grid-item {
+    border: 1px solid #333;
+    padding: 0;
+    margin: 13px;
+  }
+  .column {
+    width: 100%;
+  }
+	.letter {
+    width: 26px;
+    height: 26px;
+    margin: 0;
+    padding: 0;
+    border: 1px solid #111;
+    text-align: center;
+  }
+</style>
+
+<div bind:this="{grid}" class="grid" data-isotope={`{ "itemSelector": ".grid-item"`}>
+  {#each tiles as message}
+    <div class="grid-item">
+      {#each message.data as columns}
+        <div class="column">
+          {#each columns as letter}
+            <!-- <div class="row"> -->
+              <input type="text" class="letter" value={letter} />
+            <!-- </div> -->
+          {/each}
+        </div>
+      {/each}
+    </div>
+  {/each}
+</div>
+
 <script>
   import { onMount } from 'svelte';
-  import { entile, detile } from '../../mechanism/coders/index'
+  import { entile, detile } from '../../../mechanism/coders/index'
   // let coders = require()
 
   console.log(entile('test'))
@@ -171,6 +210,17 @@
   })
   // console.log('tiles:', tiles[0].data)
 
+  // multiply the tiles
+  // multiply the tiles
+  // multiply the tiles
+  let multiply = 2
+  for (let i = 0; i < multiply; i++) {
+    tiles.forEach((tile) => {
+      tiles.push(tile)
+    })
+  }
+  // console.log(tiles)
+
   let grid;
   let Isotope;
   onMount(async () => {
@@ -185,68 +235,3 @@
     })
   })
 </script>
-
-<style>
-  .grid {
-    width: 600px;
-    margin: 0 auto;
-  }
-  .grid-item {
-    border: 1px solid #333;
-    padding: 0;
-    margin: 13px;
-  }
-  .column {
-    width: 100%;
-  }
-	.letter {
-    width: 26px;
-    height: 26px;
-    margin: 0;
-    padding: 0;
-    border: 1px solid #111;
-    text-align: center;
-  }
-</style>
-
-<div bind:this="{grid}" class="grid" data-isotope={`{ "itemSelector": ".grid-item"`}>
-  {#each tiles as message}
-    <div class="grid-item">
-      {#each message.data as columns}
-        <div class="column">
-          {#each columns as letter}
-            <!-- <div class="row"> -->
-              <input type="text" class="letter" value={letter} />
-            <!-- </div> -->
-          {/each}
-        </div>
-      {/each}
-    </div>
-  {/each}
-</div>
-
-<!-- <div>cipher:</div>
-<table>
-	{#each cipherData as cipher}
-    <tr>
-    	{#each cipher as letter}
-        <td>
-          <input type="text" class="letter" value={letter} />
-        </td>
-	    {/each}
-    </tr>
-	{/each}
-</table>
-
-<div>message:</div>
-<table>
-	{#each messageData as message}
-    <tr>
-    	{#each message as letter}
-        <td>
-          <input type="text" class="letter" value={letter} />
-        </td>
-	    {/each}
-    </tr>
-	{/each}
-</table> -->

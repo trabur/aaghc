@@ -3,7 +3,17 @@
 </svelte:head>
 
 <style>
-  .frame {
+  .settings {
+    margin: 0 auto;
+    width: 600px;
+  }
+
+  .loop {
+    margin: 0 auto;
+    width: 800px;
+    height: 400px;
+  }
+  .drum {
     position: absolute;
     top: 3.5em;
     right: 0;
@@ -13,8 +23,15 @@
   }
 </style>
 
-<main class="frame">
-	<Example />
+<main>
+  <br />
+  <div class="settings">
+    <h1>modulo rotation:</h1>
+    <p>modulo rotation: modulo rotation: modulo rotation: modulo rotation: modulo rotation: modulo rotation: modulo rotation: modulo rotation: modulo rotation: </p>
+  </div>
+  <div class="loop">
+	  <Example class="drum" />
+  </div>
 </main>
 
 <script>
