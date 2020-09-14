@@ -59,7 +59,7 @@
 		<li><a aria-current="{segment === undefined ? 'page' : undefined}" href=".">cipherboard</a></li>
 		<li><a aria-current="{segment === 'loopdrum' ? 'page' : undefined}" href="loopdrum">loopdrum</a></li>
 		<li><a aria-current="{segment === 'jumpchart' ? 'page' : undefined}" href="jumpchart">jumpchart</a></li>
-		<li><a aria-current="{segment === 'umple' ? 'page' : undefined}" href="umple">umple</a></li>
+		<li><a aria-current="{segment === 'tyumple' ? 'page' : undefined}" href="tyumple">tyumple</a></li>
 	</ul>
 	<div style="flex: 1;">
 		<h1 on:click={toggleTheme} style="text-align: center; margin: 0 auto; padding: 0.25em 0 0 0; cursor: pointer;"><strong>AA</strong>GHC</h1>
