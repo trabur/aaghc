@@ -1,6 +1,6 @@
 <script context="module">
 	export function preload({ params, query }) {
-		return this.fetch(`blog.json`).then(r => r.json()).then(posts => {
+		return this.fetch(`notes.json`).then(r => r.json()).then(posts => {
 			return { posts };
 		});
 	}
@@ -26,11 +26,11 @@
 </style>
 
 <svelte:head>
-	<title>Blog</title>
+	<title>Notes</title>
 </svelte:head>
 
 <main>
-	<h1>Recent posts</h1>
+	<h1>Recent notes</h1>
 
 	<ul>
 		{#each posts as post}
@@ -38,7 +38,7 @@
 					tell Sapper to load the data for the page as soon as
 					the user hovers over the link or taps it, instead of
 					waiting for the 'click' event -->
-			<li><a rel='prefetch' href='blog/{post.slug}'>{post.title}</a></li>
+			<li><a rel='prefetch' href='notes/{post.slug}'>{post.title}</a></li>
 		{/each}
 	</ul>
 </main>

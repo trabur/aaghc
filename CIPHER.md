@@ -127,10 +127,39 @@ data-link:
 - q: signal flows from bottom to top then counter clockwise
 
 network:
-- ACKR: AABCDEFGHIJKLMNOPQRSTUVWXYZ
-- ACKP: aabcdefghijklmnopqrstuvwxyz
+- ACK: aabcdefghijklmnopqrstuvwxyz
 
-transport:
-1. 
-2. 
-3. 
+golben ratio
+golden ratio
+golpen ratio
+golqen ratio
+
+englis == H if message
+doengl at H // rotation
+  legI is H
+  legN is Z
+  legE is M
+odengl at T // stack
+  legH is T
+ondegl at M // reflect
+  legW is M
+nodegl at L // point
+  legT is L
+donegl at A // jam
+  legM is A
+  legW is V
+odnegl at J // signal
+  legU is J
+  legO is C
+golden at R // plug
+  lenP is R
+  lenR is B
+  lenB is D
+  lenD is P
+logden at F // event
+  lenS is F // emit
+  lenY is G // on
+  lenX is K // off
+deglis == Q if program
+ceglis == PHINZEMTWLAVJUOCRPBDFSYGXKQ
+meglis == AABCDEFGHIJKLMNOPQRSTUVWXYZ
