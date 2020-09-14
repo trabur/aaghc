@@ -25,16 +25,28 @@
   } */
 
   .red {
-    background: #FF4136;
-  }
-  .green {
-    background: #2ECC40;
-  }
-  .blue {
-    background: #0074D9;
+    background: #ff0000;
+    color: #fff;
   }
   .orange {
-    background: rebeccapurple;
+    background: #ffa500;
+    color: #fff;
+  }
+  .yellow {
+    background: #ffff00;
+    color: #111;
+  }
+  .green {
+    background: #008000;
+    color: #fff;
+  }
+  .blue {
+    background: #0000ff;
+    color: #fff;
+  }
+  .purple {
+    background: #4b0082;
+    color: #fff;
   }
 
   h1 {
@@ -45,40 +57,39 @@
     width: 100%;
     font-size: 80px;
     letter-spacing: 5px;
-    color: #fff;
     text-transform: uppercase;
   }
 </style>
 
 <main class="Loop js-loop">
-  <section class="green">
-    <h1>One</h1>
-  </section>
   <section class="red">
-    <h1>For</h1>
-  </section>
-  <section class="blue">
-    <h1>All</h1>
+    <h1>and</h1>
   </section>
   <section class="orange">
-    <h1>And</h1>
+    <h1>or</h1>
+  </section>
+  <section class="yellow">
+    <h1>not</h1>
+  </section>
+  <section class="green">
+    <h1>and</h1>
   </section>
   <section class="blue">
-    <h1>All</h1>
+    <h1>or</h1>
   </section>
-  <section class="red">
-    <h1>For</h1>
+  <section class="purple">
+    <h1>not</h1>
   </section>
 
   <!--
   These blocks are the same as the first blocks to get that looping illusion going.
   You need to add clones to fill out a full viewport height.
   -->
-  <section class="green is-clone">
-    <h1>One</h1>
-  </section>
   <section class="red is-clone">
-    <h1>For</h1>
+    <h1>and</h1>
+  </section>
+  <section class="orange is-clone">
+    <h1>or</h1>
   </section>
 </main>
 
@@ -151,7 +162,6 @@
     
     context.addEventListener('scroll', function () {
       window.requestAnimationFrame(scrollUpdate);
-      context.log(':)')
     }, false);
 
     window.addEventListener('resize', function () {
