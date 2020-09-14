@@ -27,11 +27,16 @@
 <main>
   <br />
   <div class="settings">
-    <h1>modulo rotation:</h1>
-    <p>modulo rotation: modulo rotation: modulo rotation: modulo rotation: modulo rotation: modulo rotation: modulo rotation: modulo rotation: modulo rotation: modulo rotation:</p>
+    <h1>rotation modulo:</h1>
+    <p>spin all the bits up and down. spin all the bits up and down. spin all the bits up and down. spin all the bits up and down. spin all the bits up and down. spin all the bits up and down. spin all the bits up and down. </p>
   </div>
   <div class="loop">
 	  <Example class="drum" />
+  </div>
+  <br />
+  <div class="settings">
+    <h1>function return:</h1>
+    <p>spin all the bits back and fourth. spin all the bits back and fourth. spin all the bits back and fourth. spin all the bits back and fourth. spin all the bits back and fourth. spin all the bits back and fourth. </p>
   </div>
 </main>
 

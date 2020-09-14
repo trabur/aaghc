@@ -20,9 +20,14 @@
 	<br />
 	<div class="settings">
 		<h1>transposition exchange:</h1>
-		<p>transposition exchange: transposition exchange: transposition exchange: transposition exchange: transposition exchange: transposition exchange: transposition exchange: transposition exchange: </p>
+		<p>transfer all the bits to a new set of bits. transfer all the bits to a new set of bits. transfer all the bits to a new set of bits. transfer all the bits to a new set of bits. transfer all the bits to a new set of bits. </p>
 	</div>
 	<JumpChart />
+	<br />
+	<div class="settings">
+		<h1>permutation shift:</h1>
+		<p>transfer all the bits by some fixed amount. transfer all the bits by some fixed amount. transfer all the bits by some fixed amount. transfer all the bits by some fixed amount. transfer all the bits by some fixed amount.</p>
+	</div>
 </main>
 
 <script>

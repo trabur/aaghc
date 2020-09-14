@@ -20,15 +20,21 @@
 <main>
   <br />
   <div class="settings">
-    <h1>wrap reflect jam:</h1>
-    <p>wrap reflect jam: wrap reflect jam: wrap reflect jam: wrap reflect jam: wrap reflect jam: wrap reflect jam: wrap reflect jam: wrap reflect jam: wrap reflect jam: wrap reflect jam: wrap reflect jam: </p>
+    <h1>information tilewrap:</h1>
+    <p>plain text: plain text: plain text: plain text: plain text: plain text: plain text: plain text: plain text: plain text: plain text: plain text: plain text: plain text: plain text: plain text: plain text: plain text: plain text: plain text: </p>
   </div>
 	<Example class="board" />
   <br />
   <div class="settings">
-    <h1>plain text cubyter:</h1>
+    <h1>instruction cubyter:</h1>
     <p>encrypt decrypt: encrypt decrypt: encrypt decrypt: encrypt decrypt: encrypt decrypt: encrypt decrypt: encrypt decrypt: encrypt decrypt: encrypt decrypt: encrypt decrypt: encrypt decrypt: encrypt decrypt:</p>
   </div>
+	<br />
+	<div class="settings">
+		<h1>combination lock:</h1>
+		<p>jam the transfer of bits between points. jam the transfer of bits between points. jam the transfer of bits between points. jam the transfer of bits between points. jam the transfer of bits between points. </p>
+	</div>
+	<br />
 </main>
 
 <script>
