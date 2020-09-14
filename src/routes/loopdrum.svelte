@@ -28,7 +28,7 @@
   <br />
   <div class="settings">
     <h1>modulo rotation:</h1>
-    <p>modulo rotation: modulo rotation: modulo rotation: modulo rotation: modulo rotation: modulo rotation: modulo rotation: modulo rotation: modulo rotation: modulo rotation: modulo rotation: modulo rotation: modulo rotation: </p>
+    <p>modulo rotation: modulo rotation: modulo rotation: modulo rotation: modulo rotation: modulo rotation: modulo rotation: modulo rotation: modulo rotation: modulo rotation:</p>
   </div>
   <div class="loop">
 	  <Example class="drum" />

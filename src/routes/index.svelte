@@ -20,13 +20,15 @@
 <main>
   <br />
   <div class="settings">
-    <h1>reflect encrypt decrypt:</h1>
-    <p>reflect encrypt decrypt: reflect encrypt decrypt: reflect encrypt decrypt: reflect encrypt decrypt: reflect encrypt decrypt: reflect encrypt decrypt: reflect encrypt decrypt: reflect encrypt decrypt: reflect encrypt decrypt: </p>
+    <h1>wrap reflect jam:</h1>
+    <p>wrap reflect jam: wrap reflect jam: wrap reflect jam: wrap reflect jam: wrap reflect jam: wrap reflect jam: wrap reflect jam: wrap reflect jam: wrap reflect jam: wrap reflect jam: wrap reflect jam: </p>
   </div>
 	<Example class="board" />
-	<!-- <PrototypeCube /> -->
-	<!-- <CoinToss />
-	<TicTacToe /> -->
+  <br />
+  <div class="settings">
+    <h1>plain text cubyter:</h1>
+    <p>encrypt decrypt: encrypt decrypt: encrypt decrypt: encrypt decrypt: encrypt decrypt: encrypt decrypt: encrypt decrypt: encrypt decrypt: encrypt decrypt: encrypt decrypt: encrypt decrypt: encrypt decrypt:</p>
+  </div>
 </main>
 
 <script>

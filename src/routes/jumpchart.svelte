@@ -19,8 +19,8 @@
 <main>
 	<br />
 	<div class="settings">
-		<h1>from number to alphabet:</h1>
-		<p>from number to alphabet: from number to alphabet: from number to alphabet: from number to alphabet: from number to alphabet: from number to alphabet: from number to alphabet: </p>
+		<h1>transposition exchange:</h1>
+		<p>transposition exchange: transposition exchange: transposition exchange: transposition exchange: transposition exchange: transposition exchange: transposition exchange: transposition exchange: </p>
 	</div>
 	<JumpChart />
 </main>
