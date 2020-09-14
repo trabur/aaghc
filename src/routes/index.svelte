@@ -35,6 +35,11 @@
 		<p>jam the transfer of bits between points. jam the transfer of bits between points. jam the transfer of bits between points. jam the transfer of bits between points. jam the transfer of bits between points. </p>
 	</div>
 	<br />
+	<div class="settings">
+		<h1>friction timing:</h1>
+		<p>limit the transfer of bits between points. limit the transfer of bits between points. limit the transfer of bits between points. limit the transfer of bits between points. limit the transfer of bits between points. </p>
+	</div>
+	<br />
 </main>
 
 <script>
