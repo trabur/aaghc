@@ -33,24 +33,48 @@
 </script>
 
 <style>
+  .jump {
+    display: flex;
+    margin: 0 auto;
+    width: 1000px;
+  }
+  .grid {
+    margin: 0 auto;
+    border: 1px solid #333;
+    padding: 2px;
+  }
+  .grid-item {
+    padding: 0;
+    overflow: hidden;
+  }
+  .column {
+    /* width: 100%; */
+    float: left;
+    margin: 2px;
+  }
 	.letter {
-    width: 20px;
+    width: 26px;
+    height: 26px;
+    margin: 0;
+    padding: 0;
+    border: 1px solid #111;
     text-align: center;
-	}
+  }
 </style>
 
-<div>from number to alphabet:</div>
-<table>
-	{#each data as cipher, i}
-    <tr>
-      <td>
-        <input type="text" class="letter" value={pad(i, 2)} />
-      </td>
-    	{#each cipher as letter}
-        <td>
-          <input type="text" class="letter" value={letter} />
-        </td>
-	    {/each}
-    </tr>
-	{/each}
-</table>
+<div class="jump">
+  <div class="grid">
+    {#each data as cipher, i}
+      <div class="grid-item">
+        <div class="column">
+          <input type="text" class="letter" value={pad(i, 2)} />
+        </div>
+        {#each cipher as letter}
+          <div class="column">
+            <input type="text" class="letter" value={letter} />
+          </div>
+        {/each}
+      </div>
+    {/each}
+  </div>
+</div>

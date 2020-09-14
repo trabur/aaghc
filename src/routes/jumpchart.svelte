@@ -1,11 +1,15 @@
 <style>
 	main {
 		position: relative;
-		max-width: 56em;
+		/* max-width: 56em;
 		padding: 2em;
-		margin: 0 auto;
+		margin: 0 auto; */
 		box-sizing: border-box;
 	}
+  .settings {
+    margin: 0 auto;
+    width: 600px;
+  }
 </style>
 
 <svelte:head>
@@ -13,9 +17,14 @@
 </svelte:head>
 
 <main>
-	<ReferenceChart />
+	<br />
+	<div class="settings">
+		<h1>from number to alphabet:</h1>
+		<p>from number to alphabet: from number to alphabet: from number to alphabet: from number to alphabet: from number to alphabet: from number to alphabet: from number to alphabet: </p>
+	</div>
+	<JumpChart />
 </main>
 
 <script>
-	import ReferenceChart from '../components/ReferenceChart.svelte';
+	import JumpChart from '../components/JumpChart.svelte';
 </script>
