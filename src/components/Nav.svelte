@@ -58,8 +58,8 @@
 	<ul style="flex: 1;">
 		<li><a aria-current="{segment === undefined ? 'page' : undefined}" href=".">cipherboard</a></li>
 		<li><a aria-current="{segment === 'loopdrum' ? 'page' : undefined}" href="loopdrum">loopdrum</a></li>
-		<li><a aria-current="{segment === 'endlog' ? 'page' : undefined}" href="endlog">endlog</a></li>
 		<li><a aria-current="{segment === 'jumpchart' ? 'page' : undefined}" href="jumpchart">jumpchart</a></li>
+		<li><a aria-current="{segment === 'umple' ? 'page' : undefined}" href="umple">umple</a></li>
 	</ul>
 	<div style="flex: 1;">
 		<h1 on:click={toggleTheme} style="text-align: center; margin: 0 auto; padding: 0.25em 0 0 0; cursor: pointer;"><strong>AA</strong>GHC</h1>
@@ -68,7 +68,7 @@
 		<!-- for the blog link, we're using rel=prefetch so that Sapper prefetches
 		     the blog data when we hover over the link or tap it on a touchscreen -->
 		<li style="float: right;"><a rel=prefetch aria-current="{segment === 'notes' ? 'page' : undefined}" href="notes">notes</a></li>
-		<li style="float: right;"><a aria-current="{segment === 'umple' ? 'page' : undefined}" href="umple">umple</a></li>
+		<li style="float: right;"><a aria-current="{segment === 'endlog' ? 'page' : undefined}" href="endlog">endlog</a></li>
 	</ul>
 </nav>
 
