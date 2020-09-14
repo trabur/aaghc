@@ -38,6 +38,17 @@
     <h1>function return:</h1>
     <p>spin all the bits back and fourth. spin all the bits back and fourth. spin all the bits back and fourth. spin all the bits back and fourth. spin all the bits back and fourth. spin all the bits back and fourth. </p>
   </div>
+  <br />
+  <div class="settings">
+    <h1>motion wheel:</h1>
+    <p>spin all the bits on a gear. spin all the bits on a gear. spin all the bits on a gear. spin all the bits on a gear. spin all the bits on a gear. spin all the bits on a gear. spin all the bits on a gear. spin all the bits on a gear. </p>
+  </div>
+  <br />
+  <div class="settings">
+    <h1>transition train:</h1>
+    <p>spin all the bits on a track. spin all the bits on a track. spin all the bits on a track. spin all the bits on a track. spin all the bits on a track. spin all the bits on a track. spin all the bits on a track. </p>
+  </div>
+  <br />
 </main>
 
 <script>

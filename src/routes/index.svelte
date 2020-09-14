@@ -20,15 +20,20 @@
 <main>
   <br />
   <div class="settings">
-    <h1>information tilewrap:</h1>
-    <p>plain text: plain text: plain text: plain text: plain text: plain text: plain text: plain text: plain text: plain text: plain text: plain text: plain text: plain text: plain text: plain text: plain text: plain text: plain text: plain text: </p>
+    <h1>generation message:</h1>
+    <p>population of plain text keyboard chars to transfer between peers. population of plain text keyboard chars to transfer between peers. population of plain text keyboard chars to transfer between peers.</p>
   </div>
-	<Example class="board" />
+  <br />
+  <div class="settings">
+    <h1>mutation key:</h1>
+    <p>one time scramble of chars to secure plain text information. one time scramble of chars to secure plain text information. one time scramble of chars to secure plain text information. one time scramble of bits to secure plain text information. </p>
+  </div>
   <br />
   <div class="settings">
     <h1>instruction cubyter:</h1>
-    <p>encrypt decrypt: encrypt decrypt: encrypt decrypt: encrypt decrypt: encrypt decrypt: encrypt decrypt: encrypt decrypt: encrypt decrypt: encrypt decrypt: encrypt decrypt: encrypt decrypt: encrypt decrypt:</p>
+    <p>tilewrap bits to encrypt and decrypt information. tilewrap bits to encrypt and decrypt information. tilewrap bits to encrypt and decrypt information. tilewrap bits to encrypt and decrypt information. </p>
   </div>
+	<Example class="board" />
 	<br />
 	<div class="settings">
 		<h1>combination lock:</h1>
@@ -38,6 +43,11 @@
 	<div class="settings">
 		<h1>friction timing:</h1>
 		<p>limit the transfer of bits between points. limit the transfer of bits between points. limit the transfer of bits between points. limit the transfer of bits between points. limit the transfer of bits between points. </p>
+	</div>
+	<br />
+	<div class="settings">
+		<h1>communication plug:</h1>
+		<p>transfer the bits through wiring by signal. transfer the bits through wiring by signal. transfer the bits through wiring by signal. transfer the bits through wiring by signal. transfer the bits through wiring by signal. </p>
 	</div>
 	<br />
 </main>
