@@ -39,7 +39,6 @@
     <p>slice up all of the bits and pile. slice up all of the bits and pile. slice up all of the bits and pile. slice up all of the bits and pile. slice up all of the bits and pile. slice up all of the bits and pile. slice up all of the bits and pile. </p>
   </div>
 	<div class="posts">
-		<h1>recent notes:</h1>
 		<ul>
 			{#each posts as post}
 				<!-- we're using the non-standard `rel=prefetch` attribute to
