@@ -11,7 +11,7 @@
   .loop {
     margin: 0 auto;
     width: 800px;
-    height: 800px;
+    height: 850px;
   }
 
   .forever {
@@ -27,8 +27,9 @@
     <p>spin all the bits up and down. spin all the bits up and down. spin all the bits up and down. spin all the bits up and down. spin all the bits up and down. spin all the bits up and down. spin all the bits up and down. </p>
   </div>
   <div class="loop">
-	  <UpAndDown />
+	  <UpAndDown settings={true} />
   </div>
+  <br />
   <br />
   <div class="settings">
     <h1>function return:</h1>
@@ -44,6 +45,11 @@
   </div>
   <div class="forever">
     <Gear />
+  </div>
+  <br />
+  <div class="settings">
+    <h1>gravitation disk:</h1>
+    <p>spin all the bits on a track. spin all the bits on a track. spin all the bits on a track. spin all the bits on a track. spin all the bits on a track. spin all the bits on a track. spin all the bits on a track. </p>
   </div>
   <br />
   <div class="settings">

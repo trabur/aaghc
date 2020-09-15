@@ -59,9 +59,15 @@
     letter-spacing: 5px;
     text-transform: uppercase;
   }
+
+  .controls {
+    margin: 1em;
+    position: relative;
+    text-align: center;
+  }
 </style>
 
-<main class="Loop js-loop">
+<main id='myDiv' class="Loop js-loop" style={`height: ${height}px;`}>
   <section class="red">
     <h1>and</h1>
   </section>
@@ -92,9 +98,52 @@
     <h1>or</h1>
   </section>
 </main>
+{#if settings}
+  <div class="controls">
+    <button on:click={() => direction(false)}>reverse</button>
+    <button on:click={() => play(!watch)}>{watch ? 'stop' : 'play'}</button>
+    <button on:click={() => direction(true)}>forward</button>
+  </div>
+{/if}
+
 
 <script>
   import { onMount } from 'svelte';
+  import zenscroll from 'zenscroll'
+
+  export let settings = false
+  export let height = 800
+  export let move = true // forward or reverse
+  export let watch = true // stop or play
+
+  function direction(enable) {
+    move = enable
+  }
+
+  function play(enable) {
+    watch = enable
+  }
+
+  onMount(async () => {
+    let defaultDuration = 500
+    let edgeOffset = 0
+    let myDiv = document.getElementById("myDiv")
+    let myScroller = zenscroll.createScroller(myDiv, defaultDuration, edgeOffset)
+
+    setInterval(() => {
+      if (!myDiv.matches(":hover")) {
+        // ok, mouse is not in div
+        if (watch) {
+          let positionY = myDiv.scrollTop
+          if (move) {
+            myScroller.toY(positionY + 200, defaultDuration) // forward
+          } else {
+            myScroller.toY(positionY - 200, defaultDuration) // reverse
+          }
+        }
+      }
+    }, 2000)
+  })
 
   let doc;
   let context;

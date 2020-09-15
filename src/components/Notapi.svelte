@@ -50,7 +50,7 @@
 
 <div class="container">
   <div class="item box13">
-    <UpAndDown />
+    <UpAndDown height='100%' />
   </div>
   <div class="item box8">NOT</div>
   <div class="item box5">NOT</div>
