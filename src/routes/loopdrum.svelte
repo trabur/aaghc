@@ -49,7 +49,7 @@
   <br />
   <div class="settings">
     <h1>gravitation disk:</h1>
-    <p>spin all the bits on a track. spin all the bits on a track. spin all the bits on a track. spin all the bits on a track. spin all the bits on a track. spin all the bits on a track. spin all the bits on a track. </p>
+    <p>spin all the bits on a cassette. spin all the bits on a cassette. spin all the bits on a cassette. spin all the bits on a cassette. spin all the bits on a cassette. spin all the bits on a cassette. spin all the bits on a cassette. </p>
   </div>
   <br />
   <div class="settings">

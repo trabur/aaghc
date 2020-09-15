@@ -47,8 +47,8 @@
 </div>
 
 <div class="controls">
-  <button on:click={() => turn(true)}>back</button>
-  <button on:click={() => turn(false)}>next</button>
+  <button on:click={() => turn(false)}>back</button>
+  <button on:click={() => turn(true)}>next</button>
 </div>
 
 <script>
@@ -86,15 +86,31 @@
   let numberOfCells = cells.length
   let turnBy = 360 / numberOfCells
   var translateZ = Math.round( ( cellWidth / 2 ) / Math.tan( Math.PI / numberOfCells ) );
-  // console.log('translateZ', translateZ)
+  let move = true // direction
 
   function turn (direction) {
-    if (direction) {
+    move = direction
+    if (move) {
       // forward
-      deg = deg + turnBy
+      deg = deg - turnBy
     } else {
       // backward
-      deg = deg - turnBy
+      deg = deg + turnBy
     }
   }
+
+  setInterval(() => {
+    if (move === false) {
+      // switch directions to not go past the beginning
+      if (deg >= 3600 - turnBy) {
+        move = true
+      }
+    } else if (move === true) {
+      // switch directions to not go past the end
+      if (deg <= -360 + turnBy) {
+        move = false
+      }
+    }
+    turn(move)
+  }, 3000)
 </script>
