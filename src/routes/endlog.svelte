@@ -1,10 +1,7 @@
 <style>
-	.board {
-		position: relative;
+	.endlog {
 		max-width: 800px;
-		padding: 2em;
 		margin: 0 auto;
-		box-sizing: border-box;
 	}
   .settings {
     margin: 0 auto;
@@ -23,13 +20,9 @@
     <h1>notapi stack:</h1>
     <p>count up all of the bits and stack. count up all of the bits and stack. count up all of the bits and stack. count up all of the bits and stack. count up all of the bits and stack. count up all of the bits and stack. </p>
   </div>
-	<Example class="board" />
+	<Notapi class="endlog" />
 </main>
 
 <script>
-	// import Monopoly from '../components/Monopoly.svelte';
-	import PrototypeCube from '../components/PrototypeCube.svelte';
-	import CoinToss from '../components/CoinToss.svelte';
-	import TicTacToe from '../components/TicTacToe.svelte';
-	import Example from '../components/cipherboard/Example.svelte';
+	import Notapi from '../components/Notapi.svelte';
 </script>
