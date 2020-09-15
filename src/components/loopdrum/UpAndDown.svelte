@@ -17,13 +17,7 @@
   ::scrollbar {
     display: none;
   }
-
-  /* body {
-    font-family: "Avenir Next", Helvetica, sans-serif;
-    font-weight: normal;
-    font-size: 100%;
-  } */
-
+  
   .red {
     background: #ff0000;
     color: #fff;
@@ -129,16 +123,22 @@
     let edgeOffset = 0
     let myDiv = document.getElementById("myDiv")
     let myScroller = zenscroll.createScroller(myDiv, defaultDuration, edgeOffset)
+    let myDivHeight = myDiv.scrollHeight
 
     setInterval(() => {
       if (!myDiv.matches(":hover")) {
         // ok, mouse is not in div
         if (watch) {
-          let positionY = myDiv.scrollTop
           if (move) {
-            myScroller.toY(positionY + 200, defaultDuration) // forward
+            myScroller.toY(scrollPos + 200, defaultDuration) // forward
           } else {
-            myScroller.toY(positionY - 200, defaultDuration) // reverse
+            let m = scrollPos - 200
+            if (m <= 0) {
+              // Scroll to the bottom when you reach the top
+              setScrollPos(scrollHeight - clonesHeight);
+            }
+            reCalc()
+            myScroller.toY(scrollPos - 200, defaultDuration) // reverse
           }
         }
       }
