@@ -47,7 +47,7 @@
 	<br />
 	<div class="settings">
 		<h1>communication plug:</h1>
-		<p>transfer the bits through wiring by signal. transfer the bits through wiring by signal. transfer the bits through wiring by signal. transfer the bits through wiring by signal. transfer the bits through wiring by signal. </p>
+		<p>scramble the bits through wiring by signal. scramble the bits through wiring by signal. scramble the bits through wiring by signal. scramble the bits through wiring by signal. scramble the bits through wiring by signal. </p>
 	</div>
 	<br />
 </main>
