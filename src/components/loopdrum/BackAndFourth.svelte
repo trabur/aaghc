@@ -102,7 +102,7 @@
   setInterval(() => {
     if (move === false) {
       // switch directions to not go past the beginning
-      if (deg >= 3600 - turnBy) {
+      if (deg >= 360) {
         move = true
       }
     } else if (move === true) {
