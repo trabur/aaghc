@@ -22,6 +22,11 @@
     left: 0;
     overflow: hidden;
   }
+
+  .forever {
+    margin: 0 auto;
+    width: 800px;
+  }
 </style>
 
 <main>
@@ -31,12 +36,15 @@
     <p>spin all the bits up and down. spin all the bits up and down. spin all the bits up and down. spin all the bits up and down. spin all the bits up and down. spin all the bits up and down. spin all the bits up and down. </p>
   </div>
   <div class="loop">
-	  <Example class="drum" />
+	  <UpAndDown class="drum" />
   </div>
   <br />
   <div class="settings">
     <h1>function return:</h1>
     <p>spin all the bits back and fourth. spin all the bits back and fourth. spin all the bits back and fourth. spin all the bits back and fourth. spin all the bits back and fourth. spin all the bits back and fourth. </p>
+  </div>
+  <div class="forever">
+    <BackAndFourth />
   </div>
   <br />
   <div class="settings">
@@ -52,5 +60,6 @@
 </main>
 
 <script>
-  import Example from '../components/loopdrum/Example.svelte'
+  import UpAndDown from '../components/loopdrum/UpAndDown.svelte'
+  import BackAndFourth from '../components/loopdrum/BackAndFourth.svelte'
 </script>
