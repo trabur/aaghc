@@ -14,15 +14,6 @@
     height: 800px;
   }
 
-  .drum {
-    position: absolute;
-    top: 3.5em;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    overflow: hidden;
-  }
-
   .forever {
     margin: 0 auto;
     width: 800px;
@@ -36,7 +27,7 @@
     <p>spin all the bits up and down. spin all the bits up and down. spin all the bits up and down. spin all the bits up and down. spin all the bits up and down. spin all the bits up and down. spin all the bits up and down. </p>
   </div>
   <div class="loop">
-	  <UpAndDown class="drum" />
+	  <UpAndDown />
   </div>
   <br />
   <div class="settings">
@@ -51,6 +42,9 @@
     <h1>motion wheel:</h1>
     <p>spin all the bits on a gear. spin all the bits on a gear. spin all the bits on a gear. spin all the bits on a gear. spin all the bits on a gear. spin all the bits on a gear. spin all the bits on a gear. spin all the bits on a gear. </p>
   </div>
+  <div class="forever">
+    <Gear />
+  </div>
   <br />
   <div class="settings">
     <h1>transition train:</h1>
@@ -62,4 +56,5 @@
 <script>
   import UpAndDown from '../components/loopdrum/UpAndDown.svelte'
   import BackAndFourth from '../components/loopdrum/BackAndFourth.svelte'
+  import Gear from '../components/loopdrum/Gear.svelte'
 </script>
