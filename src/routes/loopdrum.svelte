@@ -51,6 +51,9 @@
     <h1>gravitation disk:</h1>
     <p>spin all the bits on a cassette. spin all the bits on a cassette. spin all the bits on a cassette. spin all the bits on a cassette. spin all the bits on a cassette. spin all the bits on a cassette. spin all the bits on a cassette. </p>
   </div>
+  <div class="forever">
+    <Cassette />
+  </div>
   <br />
   <div class="settings">
     <h1>transition train:</h1>
@@ -63,4 +66,5 @@
   import UpAndDown from '../components/loopdrum/UpAndDown.svelte'
   import BackAndFourth from '../components/loopdrum/BackAndFourth.svelte'
   import Gear from '../components/loopdrum/Gear.svelte'
+  import Cassette from '../components/loopdrum/Cassette.svelte'
 </script>

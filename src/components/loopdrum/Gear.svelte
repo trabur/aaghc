@@ -67,8 +67,8 @@
 </div>
 
 <div class="controls">
-  <button on:click={() => turn(false)}>slow</button>
-  <button on:click={() => turn(true)}>fast</button>
+  <button on:click={() => turn(false)}>less</button>
+  <button on:click={() => turn(true)}>more</button>
 </div>
 
 <script>
@@ -81,10 +81,10 @@
       background: '#ff0000', // red
       color: '#fff',
       teeth: [
-        { am: 'AA', pm: 'EE' },
-        { am: 'BB', pm: 'FF' },
-        { am: 'CC', pm: 'GG' },
-        { am: 'DD', pm: 'HH' },
+        { am: '000', pm: '101' },
+        { am: '001', pm: '100' },
+        { am: '011', pm: '110' },
+        { am: '010', pm: '111' },
       ]
     },
     {
@@ -94,10 +94,10 @@
       background: '#ffa500', // orange
       color: '#fff',
       teeth: [
-        { am: '11', pm: '55' },
-        { am: '22', pm: '66' },
-        { am: '33', pm: '77' },
-        { am: '44', pm: '88' },
+        { am: '010', pm: '111' },
+        { am: '011', pm: '110' },
+        { am: '001', pm: '100' },
+        { am: '000', pm: '101' },
       ]
     },
     {
@@ -107,10 +107,10 @@
       background: '#008000', // green
       color: '#fff',
       teeth: [
-        { am: 'HH', pm: 'DD' },
-        { am: 'GG', pm: 'CC' },
-        { am: 'FF', pm: 'BB' },
-        { am: 'EE', pm: 'AA' },
+        { am: '111', pm: '010' },
+        { am: '110', pm: '011' },
+        { am: '100', pm: '001' },
+        { am: '101', pm: '000' },
       ]
     }
   ]
