@@ -21,6 +21,11 @@
     <p>count up all of the bits and stack. count up all of the bits and stack. count up all of the bits and stack. count up all of the bits and stack. count up all of the bits and stack. count up all of the bits and stack. </p>
   </div>
 	<Notapi class="endlog" />
+  <br />
+  <div class="settings">
+    <h1>addition overflow:</h1>
+    <p>count up all of the bits and stack. count up all of the bits and stack. count up all of the bits and stack. count up all of the bits and stack. count up all of the bits and stack. count up all of the bits and stack. </p>
+  </div>
 </main>
 
 <script>

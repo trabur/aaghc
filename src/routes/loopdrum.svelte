@@ -18,6 +18,11 @@
     margin: 0 auto;
     width: 800px;
   }
+
+  .andever {
+    margin: 0 auto;
+    width: 950px;
+  }
 </style>
 
 <main>
@@ -51,7 +56,7 @@
     <h1>gravitation disk:</h1>
     <p>spin all the bits on a cassette. spin all the bits on a cassette. spin all the bits on a cassette. spin all the bits on a cassette. spin all the bits on a cassette. spin all the bits on a cassette. spin all the bits on a cassette. </p>
   </div>
-  <div class="forever">
+  <div class="andever">
     <Cassette />
   </div>
   <br />
