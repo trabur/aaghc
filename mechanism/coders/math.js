@@ -3,7 +3,7 @@
 // trust no astroid yee see yee see IPSAA/HIPAA for not a
 // nile yee see a line now alien 10 tisk tisk skum must now
 // follow IPS nota simple for itme in game engima AAAASH
-// a not cool bend king onecu hi channab
+// a not cool bend king once hi channab
 
 // with CPU, M, and HD all in one machine we can do some interesting things.
 // let's say for a moment we had a box with a combination lock on the inside.
@@ -109,8 +109,8 @@
 // having cut up your entire body and then having cut up your entire 
 // surroundings the next logical solution must be to infect and spread
 // grand theories and formulas for "E" right? zero may be possible in
-// a system of 4 seasons; spring, summer, fall, winter. however in a 
-// system of 3 seasons zero may not be possible; plant, flood, harvest. 
+// a system of 4 seasons; spring, summer, fall, winter: HTTP. however in a 
+// system of 3 seasons zero may not be possible; plant, flood, harvest: BTC. 
 
 // luckly for us the Egyptians were vacumed to the concept of zero. only
 // having undefined knowledge of it. underground powerlines would
@@ -131,7 +131,7 @@
 // if you have 0 and 1 then we say it's now possible to get to 0/1 which
 // is 2. the pattern continues. get 0, 1, and 2 then you have 0/1/2
 // which is 3. if 0-3 is obtained we have gone full circle around the
-// system and our only option is to cross over our existing line: 4.
+// system and our only option is to cross over our existing a line: 4.
 
 // when drawing a symbol to represent something. it's important to express
 // the characteristics at play. does the line "7" bend? does the line "4"
@@ -250,14 +250,14 @@
 // note: they wanted to remove the pilot. so all we had left was a single human on some planet. at the end of the day: all races have at least 1 winner. such a lonely and universe thing to believe in.
 // loud sound is party what makes it secure as well. not just air on a circle but something like air on an infinite flat surface. limit this surface to a box, shine light through the box for tracking. toggle power to reveal RAM from HD. no, no, no, no; see. now you have a line "alien" in base 4.
 
-// a to m tamo bob
-// i c yee see alice
+// a to m tamo bob   // pm
+// i c yee see alice // am
 
 // rablet alice bob hi or shami nakasototo covertip illack atim erac
 // m tredic wvvw dit dah yee see gnavitee anslow backcord not b
 // hadit liner in game and zero undefined bit zero friend a four
 // a nile gun etc alien monkey trapiso kist kist nopisora bifure
-// stradio ham diver pass burnfort ifinty air math bath other doar
+// stradio nuham diver pass burnfort ifinty air math bath other doar
 // nobel laas c trees eracer kick out see az in light bent pibyram
 // as w itme game erac time a git space vs oldart jump e ff trainleg
 // nifty saw pi end bybend need encry and decry not pi punchler
@@ -290,6 +290,8 @@
 // ht ann racee is gocuism coupsee and or not unsee nusee reactor
 // if hit then cut and if spit then split or unwrap to trash
 
+// wtf front lol wheel follow t
+
 // im the bottom gun for mc o low f de att too
 // all [1:36] paper squares goto [0:00] and halt; proven fact.
 // split his PT at [6:06] reons then cut and nuwrap back to [3:03] or trash
@@ -300,6 +302,7 @@
 
 // bowef site yee see dnscale race dynamica 26 / 2 hipaa
 
+// furlong
 // human // hdcpumars
 // const // hd
 // let   // cpu
@@ -307,6 +310,7 @@
 
 // MB .. GB .. TB ..PB
 // Mra   Gra   Tra  Pra
+// Mars  GalaxyEarthPluto
 
 // green and nice are set for engineers and scientist where ic geer n
 
@@ -354,8 +358,221 @@
 // monkey ... a jumps up, duplicating for each level, and cycles
 // back and fourth between 1&0 for a nice vector tree :)
 
+// eeky leaky ... ai unra jam yee see drink spec & meltdown gulppy 
+// skummy pluggy brain drill not cool
 
+// yee see package shami nakasototo at the end of set timeout. chippy
+// chippy eye eye paper pooper noggin receipt. water patch hipaa cryption
+// report carve grand canyon gate. etc tragedy avoid.
 
+// water is carried by word into ear then to seed. it then flows from
+// father to mother by boat. then boat made into more water. as new
+// water is added it mixes together with other water adding
+// more and more colors. 
+
+// old ... odl ... ooll .. lol // yee see decay not cool
+
+// raid5/18tb = what ?? let's see the logic. now take
+// that thinking abandon ship and survive you will not
+// and mess age you will make unbuild nubuild build
+// then all follow ra hd if in ty so lippy lappy winny binny
+
+// rigger nadi refun treat vote big yawn [4:05] milli probaby extra
+// ash ... let's toss the all knowing scientists in the endless
+// loopy loopy loopy in game enigma boxes with all the others ... yee
+// see trippy crippy prippy trash talk go round down down now or not cool
+
+// var zero ... eeky leaky TOOL RAM E gity jammer sammer
+// yee see ... GSSG ... not new
+
+// unbe nube be 
+// 1776 STILL in on e do STUFF donnie
+// un hitter ... Alw --> law ... hi nukker
+
+// BTC ... FTP ...
+// traefik fake travis if e trake nuke i fart
+// yee see nudefined nulaw fouseytube meltdowner
+
+// do yee see gas limit do ok
+// usa usufruct cut us free trufuc
+
+// f i r s t interference meddling Lies death vv monkey toss pooy mag in g
+// outlockouted cee is nee visa o nee ight see art b accelerator
+// yee see nazi in game ein gma hipaa ivy svy lay nasty or hi teff
+
+// era GT state not real or dump hipaa NotYourCan then not cool and big foot hungry
+// gym nile g KN pi in g or i ran hits l KW hoes
+// cu left..down cu ... green.fake.screen ... cn left..top cn
+// eeky leaky ... you lost the family tour yee see doper. get over it already.
+// not cool or war ash cume bust a double double in your oo yee see
+// get the do in t or trash and burn
+
+// lead N follow C and Y point unwall nuwall 
+// check wall yee see law mark and destroy
+
+// water yee see canyon unplug nuplug check plug sshipaa
+// clinton 435 cool not venus 
+
+// big foot I ET SHOOT U astroid [4:32] round down down now or not cool
+// trash and burn yee see [13:00] tool crash and nudr undr check dr iv e
+// traffic nottev do reyou rip fee
+// caveman saveman throw pizza in box or double trouble :) /=/
+// aa strah neral GC AS IN aash!
+// unclear ice age yikes yee see now ia reclear ai
+
+// cooky looky .. diagnosed .. manny banny // 6:00 yet 9.00 plans
+// pill gates or water gates and burn trash // covert id nine net e
+
+// you have the right to shoot yourself in the foot until you go sleepy
+// die at the end of the nile skum. yee see total sense. WE need not farm
+// corn walking against shifting cosmic currents.
+
+// charge RAM or RAM uncharge then [15:14] cool down
+// down and gun pow pow [11:50] nucharge keemstar
+// HU diaper wiper
+
+// inside front door handle lever cee [0:30] yee see crash ... go back
+// and touch to rebuild outside [1:00] matrix
+// 7 topples 4 order or not
+
+// NUITED pull down the sheet lids and orge swig stick
+// beaters surrounded by public hairs drippy droppy cry
+// baby UNITED check the front door IT or bridge and get out.
+// mayan tree fire sacrifices for the good red man.
+// lung go nubreath then go unbreath so earth breath
+// ice age cry ash receipts indeed
+// patchwork in the forest for control
+
+// max shit troylet clever flush swirly round round go bye bye
+// computer poop formula ... fooky tooky pooky --> yee see homework
+// not student so seed teacher back to cheater
+
+// caveman nuclear nutouchable meltdown reactor [16:16] billion gates years old 
+// logic. caveman only go jerky werky baby bang outside and inside? what happens 
+// when you run out of rubber bullets ... you got recalculating todo.
+
+// sexy sword draw ... top or bottom // the choice is yours. however big foot
+// and tiny foot not be happy if roundy table go roundy sideways yee see position
+// for cheater not cool and not fair or trash and burn nuke buke diper fu usey t ubey
+
+// master podium debate ... winner takes all ... cum shots explode into babies
+// on death // so keep in mind: family trees get their power cut in half per
+// baby generation. count up your votes momy and dady --> human race vs family
+// race vs united race time! thanks for tossing ballots in the hacky ball sack.
+// your votes have been auto tallied :)
+
+// simple things often produce the most difficult challenges; 
+// like trying to build something from 1s and 0s haha lol
+// eeky leaky ... collects pile of plutonium for further evidence
+
+// ungreen nugreen green energy? if all you have is green then ill just grab the UN;
+// that this and the other thing. syscipher physics notnew aahipaa old flappy waggy
+
+// your right. children should be able to smoke. especially at the age of 1 or 2.
+// that way when the old people get tired of smoking we can make the young people
+// start smoking. keep telling yourself that this E of yours is a universally
+// interchangeable poverty prove ty caveman and saveman ... nifty if in ty kind of thing
+
+// lay t or ace is js
+// at my kvm in e
+// votes lost in universe expansion. new ice age.
+// let toy dropper
+// do a little ... do a little ... and get ... tonight
+// 1 vote 2 balls ... how about you?
+// shooken trees flap their leaves in the wind for mics
+
+// well, if moon is 2 and earth is 4 ... given enough spinny spin spin and enough
+// "planning" votes should be ET calculable. so if a box has 3 in it ... youtube ...
+// then after 0.5 rotations 6 * 1/2 = 3. therefore, ball count always matches up to
+// rotation count; the age of every box. 8 year term or not.
+// so [7:08] good luck uncle sam!
+
+// revogay how about that other stuff too? water gate, cry gate, air gate, etc gate?
+// oo not o if for sed not make it to seed; not a good deal 
+// or great deal ... just a best practice kind of deal.
+// notnew 101 wenton
+
+// For every screw there is a click ... nifty caps lock shift up and 
+// down ... key insert, key outsert, and char walk away. try not to blink
+
+// holding down 3 inside 4 and forcing injections is bulling.
+// triangle square san. [5:43] paper printer.
+// what do judges have to say anyways? they are high on 
+// their own crack crime investigations.
+
+// shesh EPIC how a 10k bike is capable of causing such rippling butterfly effects.
+// however, dropping the light weight carbon fiber fork on the ground by the mechanic.
+// haha. lol. that is some serious round bullet vs aero bullet technology will
+// certainly cause some EPIC traffic JAMs if not carful. https://youtu.be/nDBzpGr1R1w?t=150
+// troy is h ... what race were ya all talking about again?
+// so come on back .. no more .. no more .. no more // new cradle not playfair
+
+// they cut off their own legs and eat lunches ... surely that can't be a good survival tactic.
+// ready to pull your hair out when he // win he he
+
+// terminal vector
+// random vector
+// actual vector
+// initial vector
+// stopping vector
+
+// look outside we are trying to survive on a train in the middle 
+// of an ice age pandemic. boring and snowpiercing into the obis ....
+
+// lot's of reflecting to do. PHP creator reactors just be slam jetting around. that 
+// terrifying script over there makes them explode. meltdown: tell me do now. yikes.
+// spectre: see pc tree. uhh ohh. math calculations running on pendulum fumes. brain
+// on XOR mode. broken CPU enigma machine throttling my coffee. assembly running using
+// finger nails and head scratches. gosh. good thing this is all (not mine) and just
+// code and scripts from that PHP server and not JS or real life or anything like that.
+
+// may i ask why
+// do a crazy bike wabble so it looks scary in order to basicly spread things out
+// if there is a group of people that no longer wish to live where should they go?
+// c all hot line a for crazy coaching and retreating zoo yapping tech support
+
+// big m ... this wont work for as long as there is still radio active decaying waste 
+// lying around; for instance, the two elements of "manhattan" and "succeeded" will
+// constantly break down into "manth" and "suced" .. not destroyed yet perhaps 
+// compressed and made into an even more dangerous ka boo m.
+
+// fair faith trust stun
+// if in it ... nifty <--> infinity // have at it :)
+
+// dangerous      // use nda or g
+// developers     // speed lover
+// server less    // re vs sl es
+// car            // camera ace ram
+
+// dull shredders
+// find a looping version of yourself in the future 
+// time the loop in order to get a measurment; such as 10 rpm
+// once loop look at is triggered some punch vector is made; 4 ft
+// last land air sea time mn over net g 32
+
+// no fancy check and money transportation tubes for our YT
+// drive through banks must piss race supremacists fun flu
+
+// that person wants fast trains while the other 
+// person wants all trains to go the same speed.
+
+// [13:42] dang, i was just trying to sit in my box ... looked at the wall too
+// long and burned a floor into the room ... caveman screaming with the hoody
+// on helped figure out how big the stadium was ... cursor walking from
+// tomb to tomb smearing shit on the walls :) [1:30]
+
+// these php coders, pro home people, spin around like wheels on a bus
+// serving "a line" scripts to their alien overlords --> so us browsers
+// just sit around quietly and watch these bus drivers go round and
+// round ... then if/when our human trips inside said building some programmer
+// must write "a script" to try/catch all case conditions // else crash
+// will escalate day after day. sh bit jesus drinker
+
+// kevin, ryan, austin pd: cell phoned me today
+// oct 12, 3:00 AM
+// 
+
+// A67 just rust:
 // satoshi nakamoto
 // shami nakasototo
 // rain maskio aaghish
